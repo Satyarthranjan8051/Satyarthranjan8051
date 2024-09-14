@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyarth Ranjan</h1>
 
-<!--<p align="center"> 
+<p align="center"> 
    <img src="https://github.com/user-attachments/assets/907c6f73-3088-4749-b25b-3dd755e61306" alt="wow-world-of-warcraft"/> 
-</p> -->
+</p> 
 
 
 <h3 align="center"><u>A passionate AIML Developer and Enthusiast BI_Dashboard Designer Currently Learning Mern stack</u></h3>
