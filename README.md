@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyarth Ranjan</h1>
 
 <p align="center"> 
-   <img src="https://github.com/user-attachments/assets/907c6f73-3088-4749-b25b-3dd755e61306" alt="wow-world-of-warcraft"/> 
+   <img src="https://github.com/user-attachments/assets/71b2e22b-1e52-4dc2-a9eb-61f196194907" alt="wow-world-of-warcraft"/> 
 </p> 
 
 
