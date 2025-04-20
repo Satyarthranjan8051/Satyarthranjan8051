@@ -8,7 +8,7 @@
 <h3 align="center"><u>A passionate AIML Developer and Enthusiast BI_Dashboard Designer Currently Learning Mern stack</u></h3>
 
 
-- 🔭 I’m currently working on **MY_OWN_RADIS_SERVER**
+- 🔭 I’m currently working on **Datascience project "project1"**
 
 - 🌱 I’m currently learning **Frameworks like MERN Stack**
 
