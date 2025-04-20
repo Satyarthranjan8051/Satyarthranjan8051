@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Datascience project "project1"**
 
-- 🌱 I’m currently learning **Frameworks like MERN Stack**
+- 🌱 I’m currently learning **django**
 
 - 👯 I’m looking to collaborate on **LLM DEVELOPMENT**
 
