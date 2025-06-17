@@ -1,52 +1,75 @@
-<h1 align="center">Hi 👋, I'm Satyarth Ranjan</h1>
+<h1 align="center">👋 Hi, I'm Satyarth Ranjan</h1>
 
-<p align="center"> 
-   <img src="https://github.com/user-attachments/assets/71b2e22b-1e52-4dc2-a9eb-61f196194907" alt="wow-world-of-warcraft"/> 
-</p> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71b2e22b-1e52-4dc2-a9eb-61f196194907" alt="wow-world-of-warcraft" width="400"/>
+</p>
 
+<h3 align="center">🚀 Passionate AIML Developer | BI Dashboard Designer | MERN Stack Learner</h3>
 
-<h3 align="center"><u>A passionate AIML Developer and Enthusiast BI_Dashboard Designer Currently Learning Mern stack</u></h3>
+---
 
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Datascience project "project1"**
+- 🔭 Currently working on **Data Science Project: "Project1"**
+- 🌱 Currently learning **Django & MERN Stack**
+- 🤝 Open to collaborating on **LLM Development Projects**
+- 💬 Ask me about **Machine Learning, Business Intelligence Tools**
+- 📫 Reach me at **[satyarthranjan4488@gmail.com](mailto:satyarthranjan4488@gmail.com)**
+- ⚡ Fun fact: **I love Anime 🎌**
 
-- 🌱 I’m currently learning **django**
+---
 
-- 👯 I’m looking to collaborate on **LLM DEVELOPMENT**
+### 📊 GitHub Stats
 
-- 💬 Ask me about **Machine learning, Business Intelligence Tool.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyarthranjan8051&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 📫 How to reach me **satyarthranjan4488@gmail.com**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyarthranjan8051&show_icons=true&theme=radical" alt="Satyarth's GitHub stats" />
+</p>
 
-- ⚡ Fun fact **I love Anime**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyarthranjan8051&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyarthranjan8051&label=Profile%20views&color=0e75b6&style=flat" alt="satyarthranjan8051" /> </p>
+---
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyarthranjan8051" alt="satyarthranjan8051" /></a> </p> -->
+### 🌐 Connect With Me
 
-<p align="left"> <a href="https://twitter.com/satyarthranjan" target="blank"><img src="https://img.shields.io/twitter/follow/satyarthranjan?logo=twitter&style=for-the-badge" alt="satyarthranjan" /></a> </p>
-<a href="https://www.linkedin.com/in/satyarth-ranjan-9122harsh054488/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/satyarthranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/satyarth-ranjan-9122harsh054488/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/satyarthranjan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🛠️ Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="Figma" />
+</p>
 
+---
 
+### ⚡ Fun Quote
+
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+---
+
+⭐️ **Thanks for visiting my profile! Have a nice day!**
