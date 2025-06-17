@@ -1,10 +1,9 @@
 <!-- Profile README for Satyarth Ranjan -->
+# Hi there 👋, I'm Satyarth Ranjan
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U3ZXd3NDQ5c3JxcmJ2NGs1Yncycm01dnBvdm9wZDVjZHhpZ3htaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/akplM5XNI9rkjUFX1h/giphy.gif" width="300" alt="Welcome Gif" />
 </div>
-
-# Hi there 👋, I'm Satyarth Ranjan
 
 ## 🚀 AIML Developer | BI Dashboard Designer | MERN Stack Learner
 
