@@ -49,11 +49,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
 
-<h3 align="left">🔥 My Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satyarthranjan8051&theme=dracula" alt="Satyarthranjan8051" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyarthranjan8051&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="Satyarthranjan8051" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyarthranjan8051&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="Satyarthranjan8051" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyarthranjan8051&theme=radical&disable_animations=true" alt="Satyarthranjan8051" /></p>
