@@ -1,7 +1,8 @@
 <!-- Profile README for Satyarth Ranjan -->
 # Hi there 👋, I'm Satyarth Ranjan
 
-![Lelouch GIF](https://media.tenor.com/ZmJffOU5V-8AAAAC/lelouch.gif)
+![Lelouch GIF](https://media.tenor.com/r4OZ8XBf5b8AAAAC/lelouch.gif)
+
 
 ## 🚀 AIML Developer | BI Dashboard Designer | MERN Stack Learner
 
