@@ -1,9 +1,7 @@
 <!-- Profile README for Satyarth Ranjan -->
 # Hi there 👋, I'm Satyarth Ranjan
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U3ZXd3NDQ5c3JxcmJ2NGs1Yncycm01dnBvdm9wZDVjZHhpZ3htaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/akplM5XNI9rkjUFX1h/giphy.gif" width="300" alt="Welcome Gif" />
-</div>
+<div class="tenor-gif-embed" data-postid="10400991459934247247" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/lelouch-gif-10400991459934247247">Lelouch GIF</a>from <a href="https://tenor.com/search/lelouch-gifs">Lelouch GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🚀 AIML Developer | BI Dashboard Designer | MERN Stack Learner
 
