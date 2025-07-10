@@ -1,9 +1,9 @@
 <!-- Profile README for Satyarth Ranjan -->
 # Hi there 👋, I'm Satyarth Ranjan
 
-![tenor](https://github.com/user-attachments/assets/a5f1444e-6ea8-4d41-96a3-bc937ccf9f25)
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a5f1444e-6ea8-4d41-96a3-bc937ccf9f25" alt="tenor">
+</div>
 
 ## 🚀 AIML Developer | BI Dashboard Designer | MERN Stack Learner
 
