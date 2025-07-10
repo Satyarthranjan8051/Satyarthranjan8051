@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Data Science Project: "Project1"**
+- 🔭 Currently working on **Data Science Project: "Project1"** and **Web Development Project: "Lang Lantern"**
 - 🌱 Learning **Django & MERN Stack**
 - 🤝 Open to collaborate on **LLM Development**
 - 💬 Ask me about **Machine Learning, BI Tools**
@@ -22,7 +22,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/satyarth-ranjan-9122harsh054488/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
