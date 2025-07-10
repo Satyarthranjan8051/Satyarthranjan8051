@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Data Science Project: "Project1"** and **Web Development Project: "Lang Lantern"**
+- 🔭 Currently working on **Data Science Project: "Project1"** and **Hackathon Project: "Lang Lantern"**
 - 🌱 Learning **Django & MERN Stack**
 - 🤝 Open to collaborate on **LLM Development**
 - 💬 Ask me about **Machine Learning, BI Tools**
